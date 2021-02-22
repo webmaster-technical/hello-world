@@ -1,2 +1,2 @@
 # hello-world
-Testing Git
+This is a test. Pure and simple.
